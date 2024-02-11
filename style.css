@@ -141,7 +141,7 @@ button:nth-child(2):hover{
 }
 .circle:nth-child(2){
     width: 30rem;
-    background-image: url("image/1.JPG");
+    background-image: url("1.JPG");
     background-size: 110%;
     background-repeat: no-repeat;
     border: 0.5rem solid #fff;
